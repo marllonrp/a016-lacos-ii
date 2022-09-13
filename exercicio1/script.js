@@ -7,6 +7,6 @@ const array = [
 ];
 
 for (let jogador in array) {
-  console.log(`Jogardor ${Number(jogador) + 1}: ${array[jogador]}`);
+  console.log(`Jogador ${Number(jogador) + 1}: ${array[jogador]}`);
   }
 
